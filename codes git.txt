@@ -3,3 +3,41 @@ git init
 git status
 
 git log  -to get details of commit
+
+git add .
+
+git commit -m "...."
+
+git push     // pusg to central repo
+
+git restore <filename>  //git restore user.java
+
+git restore --staged <filename>  //unstage from staging area
+
+git rm  <filename> // to delete from central repo
+git commit , git push   //all once to delete
+
+===============================
+How to work with old repository ?
+> got to repo , code ,copy url of repo..(clone)
+> download central repository to local repo in your system.
+> we use command called git clone <url>
+> then go inside ,project folder
+   cd <productname>
+  check git status
+  
+=======================
+To get latest changes happened in Repository or project
+> git pull //command is used
+
+
+
+
+
+
+
+
+
+
+
+
