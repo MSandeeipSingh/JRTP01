@@ -34,7 +34,16 @@ To get latest changes happened in Repository or project
 
 
 
+===============
+what is .gitignore?
+> it is used to specify files and folder to skip from git commit operations.
 
+ex:- settings,classpath, target folder
+
+==========================
+GIT - GUI 
+=========
+git gui      ///command gives GUI inside same folder.
 
 
 
